@@ -8,7 +8,7 @@ const products = [
     id: '101',
     name: 'Developer Laptop Pro',
     category: 'Electronics',
-    price: 70000,
+    price: 70004,
     rating: 4.8,
     badge: 'Best Seller',
     desc: 'High-performance laptop optimized for development, DevOps, and cloud workloads.'
@@ -17,7 +17,7 @@ const products = [
     id: '102',
     name: 'AI Camera Smartphone',
     category: 'Mobiles',
-    price: 40000,
+    price: 40009,
     rating: 4.6,
     badge: 'New Launch',
     desc: 'Next-generation smartphone with AI-powered camera and ultra-fast performance.'
@@ -26,7 +26,7 @@ const products = [
     id: '103',
     name: 'Noise Cancelling Headphones',
     category: 'Accessories',
-    price: 5000,
+    price: 50000,
     rating: 4.5,
     badge: 'Trending',
     desc: 'Wireless headphones with active noise cancellation and crystal-clear sound.'
@@ -35,7 +35,7 @@ const products = [
     id: '104',
     name: 'Smart Fitness Watch',
     category: 'Wearables',
-    price: 12000,
+    price: 120000,
     rating: 4.7,
     badge: 'Popular',
     desc: 'Advanced fitness tracking with heart rate monitoring and smart notifications.'
